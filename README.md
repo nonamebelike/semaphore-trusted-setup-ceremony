@@ -78,7 +78,7 @@ Run this command in your terminal:
 phase2cli auth
 ```
 * This will prompt you to open a browser and visit [https://github.com/login/device](https://github.com/login/device)
-* Copy the provided auth code in terminal and paste in the auth page . Click "Authorize ethstorage" to continue.
+* Copy the provided auth code in terminal and paste in the auth page . Click "Authorize" to continue.
 
 ---
 
