@@ -1,13 +1,13 @@
-# Semaphore Trusted Setup Ceremony
+<div align="center">
+  <h1>Semaphore Trusted Setup Ceremony</h1>
 
-Semaphore is a zero-knowledge protocol for anonymous signaling on Ethereum, enabling users to prove membership in a group and broadcast signals. Such as votes, endorsements, or messages. Without revealing their identity.
+  <p>Semaphore is a zero-knowledge protocol for anonymous signaling on Ethereum, enabling users to prove membership in a group and broadcast signals. Such as votes, endorsements, or messages. Without revealing their identity.</p>
+
+  <img width="680" height="358" alt="image" src="https://github.com/user-attachments/assets/07d6bfd6-7139-4737-8e4a-4d6c002166c2" />
 
 
-<img width="680" height="358" alt="image" src="https://github.com/user-attachments/assets/07d6bfd6-7139-4737-8e4a-4d6c002166c2" />
-
-
-* **The latest ceremony’s running until August 18th 2025.**
-
+  <p>The latest ceremony’s running until August 18th 2025.</p>
+</div>
 
 ## Contribute
 You can contribute to the ceremony using either a web browser or the command-line interface (CLI).  
