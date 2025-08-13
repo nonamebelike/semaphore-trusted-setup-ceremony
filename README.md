@@ -89,7 +89,7 @@ phase2cli auth
 Open a screen so the ceremony keeps going in the background—might take hours before it’s your turn.
 * Screen is useful for VPS, not WSL. If you close the terminal in WSL, your screen session is killed
 ```
-screen -S ceremony
+screen -S semaphore
 ```
 
 ### Contribute to the ceremony
@@ -102,10 +102,10 @@ phase2cli contribute -c semaphore-binary-merkle-root-fix
 
 ### Screen commands
 * Minimize screen: `Ctrl`+`A`+`D`
-* Return to screen: `screen -r ceremony`
+* Return to screen: `screen -r semaphore`
 * Kill ceremony when inside screen: `Ctrl`+`C`
 * Kill screen when inside screen: `Ctrl`+`D`
-* Kill screen when outside screen: `screen -XS ceremony quit`
+* Kill screen when outside screen: `screen -XS semaphore quit`
 * screens list: `screen -ls`
 
 ---
